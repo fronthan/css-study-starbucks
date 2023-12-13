@@ -1,5 +1,6 @@
 # 2023.12.13 study
 ## css, js 활용 스타벅스 랜딩페이지 만들기
+### fastcampus HTML&CSS, JS, React 
 - material icons
 - lodash.js
 - gsap.js
